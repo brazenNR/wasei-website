@@ -1,6 +1,9 @@
 :root{
   --primary: #fff;
     background-image: url(pro.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 90% 90%;
   --bg-envelope-color: #f5edd1;
   --envelope-tab: #ecdeb8;
   --envelope-cover: #e6cfa7;
